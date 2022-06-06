@@ -7,16 +7,24 @@
 
 - E-mail: cosme.teixeira@gmail.com
 
-###Front-End
+### Front-End
 
 - HTML 
 - CSS
 - Kivy
 - QT
 
-###Back-End
+### Back-End
 
--Python 
--C++
--Visual Basic
--C#
+- Python 
+- C++
+- Visual Basic
+- C#
+
+### Embarcados e IOT
+
+- Arduino 
+- ESP32
+- MQTT
+- IA
+
