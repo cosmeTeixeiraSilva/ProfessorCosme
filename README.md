@@ -7,3 +7,16 @@
 
 - E-mail: cosme.teixeira@gmail.com
 
+###Front-End
+
+- HTML 
+- CSS
+- Kivy
+- QT
+
+###Back-End
+
+-Python 
+-C++
+-Visual Basic
+-C#
